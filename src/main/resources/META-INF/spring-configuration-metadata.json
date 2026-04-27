@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "resourcemanager.jwt.secret",
+      "type": "java.lang.String",
+      "description": "JWT secret key from AWS Secrets Manager"
+    }
+  ]
+}
